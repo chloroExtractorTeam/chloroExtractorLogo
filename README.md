@@ -1,20 +1,15 @@
 # chloroExtractorLogo
-All stuff concerning the logo of our chloroExtractor
 
+The logo is inspired by the first graphic on Thomas' Poster.
+It shows a kmer graph as base to seperate the chloroplast data from the
+rest of the plant, as well as a circular chloroplast genome with LSC, 2 x IR and SSC.
 
-## Ideas
+Some notes about used resources:
+- The font used is Tuffy (Public Domain https://fontlibrary.org/en/font/tuffy)
+- The flower is derived from "Simple flower" (Public Domain https://openclipart.org/detail/177589/simple-flower)
+- The chloroplast is derived from "chloroplast 1" (Public Domain https://openclipart.org/detail/15841/chloroplast-1)
 
-### Kmerplot with Plant and chloroplasts
+The logo can be used under the MIT license (see license file)
 
-This idea is inspired by the first graphic on Thomas' Poster. I posted a quick
-sketch of the idea below.
-
-Some ideas for improvement:
-
-- change the aspect ratio to 1:1
-- make the chloroplasts gree
-- add the term "chloroextractor"
-
-
-![kmer](kmer-chloro.png)
+![logo](logo.png)
 
